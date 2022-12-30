@@ -18,3 +18,6 @@ more doable. This is however somewhat computationally intensive.
 - The `latex-report` directory is the LaTeX source code used to 
 create the writup.
 
+# Demo 
+
+![final_demo](https://user-images.githubusercontent.com/45540813/210030830-d86044cf-20b7-4337-b2ec-2c696aa04525.gif)

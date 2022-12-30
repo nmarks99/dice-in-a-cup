@@ -11,6 +11,8 @@ very difficult and tedious to solve using Newton's laws directly,
 however using the Euler-Lagrange equations, the problem is much
 more doable. This is however somewhat computationally intensive.
 
+All code for the simulation can be found in the `src` directory
+
 - `main.ipynb` is the primary code that does everything. 
 
 - `helpers.py` defines some useful helper functions.
